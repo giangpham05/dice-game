@@ -1,0 +1,99 @@
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.2\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.3\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+F:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+G:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+G:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+G:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+W:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+H:\VanGiangPhamAssgt - v1.4.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+E:\VanGiangPhamAssgt - v1.4.1.1\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+E:\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+E:\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+E:\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.pdb
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.frm_DiceGame.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.Properties.Resources.resources
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt - v1.4.1.1 Multi\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.csproj.GenerateResource.Cache
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt\VanGiangPhamAssgt\bin\Debug\VanGiangPhamAssgt.exe.config
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.exe
+C:\Users\Mr.Technical\Desktop\INFT2012\VanGiangPhamAssgt\VanGiangPhamAssgt\obj\Debug\VanGiangPhamAssgt.pdb
